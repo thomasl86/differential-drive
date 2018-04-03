@@ -1,0 +1,8 @@
+Kp: 200
+Ki: 200
+Kd: 0
+out_min: -255
+out_max: 255
+rate: 30
+timeout_ticks: 4
+rolling_pts: 5
